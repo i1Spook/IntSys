@@ -1,0 +1,14 @@
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\bin\Debug\IntSysA2WPF.exe.config
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\bin\Debug\IntSysA2WPF.exe
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\bin\Debug\IntSysA2WPF.pdb
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF.csprojResolveAssemblyReference.cache
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\MainWindow.g.cs
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\App.g.cs
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF_MarkupCompile.cache
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF_MarkupCompile.lref
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\MainWindow.baml
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF.g.resources
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF.Properties.Resources.resources
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF.csproj.GenerateResource.Cache
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF.exe
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA2WPF\IntSysA2WPF\obj\Debug\IntSysA2WPF.pdb
