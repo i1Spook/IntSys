@@ -1,0 +1,6 @@
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA1\IntSysA1\bin\Debug\IntSysA1.exe.config
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA1\IntSysA1\bin\Debug\IntSysA1.exe
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA1\IntSysA1\bin\Debug\IntSysA1.pdb
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA1\IntSysA1\obj\Debug\IntSysA1.csprojResolveAssemblyReference.cache
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA1\IntSysA1\obj\Debug\IntSysA1.exe
+\\pascal.informatik.fh-nuernberg.de\studi$\noeckerpa71806\documents\visual studio 2017\Projects\IntSysA1\IntSysA1\obj\Debug\IntSysA1.pdb
